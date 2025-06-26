@@ -1,0 +1,11 @@
+python-dotenv
+crewai
+crewai[tools]
+fastapi[standard]
+
+pytest
+
+azure-identity
+azure.keyvault.secrets
+uvicorn[standard]
+
